@@ -1,11 +1,18 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Pós-graduando de Engenharia de Software pela Católico de Joinville.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Graduado em Analise e Desenvolvimento de Sistemas pela UTFPR de Medianeira.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Desenvolvedor Ruby on Rails desde 2011, atuamento trabalhando na Internet Sistemas.
+
+Trabalhei anteriormente na [Agência A2C](http://www.a2c.ag) com os projetos:
+
+  + [Clube de Autores](http://www.clubedeautores.com.br)
+  + [Profissionais do Livro](http://www.profissionaisdolivro.com.br)
+
+Também trabalhei na empresa [SWA](http://www.swa.com.br) como Desenvolvedor Java e na [Service Web](http://www.serviceweb.com.br) como Desenvolvedor Ruby on Rails.
