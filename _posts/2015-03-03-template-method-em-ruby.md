@@ -444,7 +444,9 @@ end
 Esse é o uso de Template Method em Ruby.
 
 [Refs #1 - Reefpoints](http://reefpoints.dockyard.com/ruby/2013/07/10/design-patterns-template-pattern.html)
+
 [Refs #2 - Edapx](http://edapx.com/2013/10/27/template-pattern/)
+
 [Refs #3 - Wikipedia](http://pt.wikipedia.org/wiki/Template_Method)
 
 Até a próxima!.
