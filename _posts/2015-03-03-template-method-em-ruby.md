@@ -2,7 +2,7 @@
 layout: post
 title:  "Design Patterns: Template Method em Ruby"
 date:   2015-03-03 22:01:28
-categories: ruby design-patters
+categories: ruby design-patterns
 ---
 
 Por definição o [Template Method](http://pt.wikipedia.org/wiki/Template_Method):
