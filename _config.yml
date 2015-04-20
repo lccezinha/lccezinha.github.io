@@ -9,10 +9,12 @@ twitter_username: lccezinha
 github_username:  lccezinha
 linkedin_username: luizcezer
 
+# Build settings
+markdown: kramdown
+
 analytics :
   provider : google
   google :
       tracking_id : 'UA-37959294-2'
 
-# Build settings
-markdown: kramdown
+disqus_shortname: lccezinha

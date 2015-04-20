@@ -3,6 +3,7 @@ layout: post
 title:  "Design Patterns: Singleton Ruby"
 date:   2015-04-16 22:01:28
 categories: ruby design-patterns
+comments: true
 ---
 
 Por definição o [Singleton](http://pt.wikipedia.org/wiki/Singleton):
