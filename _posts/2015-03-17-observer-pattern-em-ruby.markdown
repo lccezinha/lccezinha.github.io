@@ -3,6 +3,7 @@ layout: post
 title:  "Design Patterns: Observer em Ruby"
 date:   2015-03-17 22:01:28
 categories: ruby design-patterns
+comments: true
 ---
 
 Por definição o [Observer](http://pt.wikipedia.org/wiki/Observer):
