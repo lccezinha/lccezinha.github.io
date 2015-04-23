@@ -4,7 +4,7 @@ email: lccezinha@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Movido a Coca-Cola & Thrash Metal /m/
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lccezinha.github.io"
+url: http://lccezinha.github.io/
 twitter_username: lccezinha
 github_username:  lccezinha
 linkedin_username: luizcezer
