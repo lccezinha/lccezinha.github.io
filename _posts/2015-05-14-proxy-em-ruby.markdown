@@ -293,8 +293,11 @@ end
 Para realizar essa implementação, removemos a variável de instância `@real_object` do método `def_delegators` e utilizamos agora a achamada para um método `real_object`, que irá verificar se o objeto já existe, caso não exista irá criar um objeto novo. Dessa forma `real_object` só será criado quando realmente for chamado.
 
 [Refs #1 - Wikipedia](http://pt.wikipedia.org/wiki/Proxy_%28padr%C3%B5es_de_projeto%29)
+
 [Refs #2 - Tutorials Point](http://www.tutorialspoint.com/design_pattern/decorator_pattern.htm)
+
 [Refs #3 - Sourcemaking](https://sourcemaking.com/design_patterns/proxy)
+
 [Refs #4 - Devmedia](http://www.devmedia.com.br/conheca-o-pattern-proxy-gof-gang-of-four/4066)
 
 Até a próxima!.
