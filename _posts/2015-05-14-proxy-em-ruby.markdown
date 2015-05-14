@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design Patterns: Proxy em Ruby"
-date:   2015-05-11 22:01:28
+date:   2015-05-14 22:01:28
 categories: ruby design-patterns
 comments: true
 ---
