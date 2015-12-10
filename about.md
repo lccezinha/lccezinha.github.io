@@ -4,11 +4,11 @@ title: Sobre
 permalink: /about/
 ---
 
-Pós-graduando de Engenharia de Software pela Católica de Joinville.
+Pós graduado em Engenharia de Software pela Católica de Joinville.
 
 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pela UTFPR de Medianeira.
 
-Desenvolvedor Ruby on Rails desde 2011, atualmente trabalhando na [Internet Sistemas](http://internetsistemas.com.br/).
+Desenvolvedor Ruby on Rails desde 2011, atualmente trabalhando na [Resultados Digitais](http://resultadosdigitais.com.br/) 
 
 Trabalhei anteriormente na [Agência A2C](http://www.a2c.ag) com os projetos:
 
