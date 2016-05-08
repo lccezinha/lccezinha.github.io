@@ -3,7 +3,6 @@ layout: post
 title:  "Design Patterns: Builder em Ruby"
 date:   2015-04-23 22:01:28
 categories: ruby design-patterns
-comments: true
 ---
 
 Por definição o [Builder](http://pt.wikipedia.org/wiki/Builder):

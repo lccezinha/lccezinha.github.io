@@ -3,7 +3,6 @@ layout: post
 title:  "Sincronizando repositórios forkeados do github"
 date:   2015-02-23 22:01:28
 categories: github
-comments: true
 ---
 
 Quando se participa de projetos open source é muito comum após um tempo surgir a necessidade de atualizar o código de seu repositório forkeado com o remoto, mas como fazer isso ?

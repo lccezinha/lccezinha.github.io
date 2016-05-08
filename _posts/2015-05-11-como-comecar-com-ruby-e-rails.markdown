@@ -3,7 +3,6 @@ layout: post
 title:  "Dicas de como começar com Ruby e Rails"
 date:   2015-05-11 22:01:28
 categories: ruby rails aprendizado dicas
-comments: true
 ---
 
 Algumas dicas pra quem pretende começar com Ruby e consequentemente Rails, dicas essas que digo por experiência e que se talvez alguém tivesse me dado, meu aprendizado poderia ter sido melhor, mais rápido e me ajudaria e não apanhar tanto nesse caminhos da pedras inicial.

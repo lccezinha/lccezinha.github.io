@@ -3,7 +3,6 @@ layout: post
 title:  "Design Patterns: Iterator em Ruby"
 date:   2015-03-23 22:01:28
 categories: ruby design-patterns
-comments: true
 ---
 
 Por definição o [Iterator](http://pt.wikipedia.org/wiki/Iterator):

@@ -16,5 +16,3 @@ analytics :
   provider : google
   google :
       tracking_id : 'UA-37959294-2'
-
-disqus_shortname: lccezinha

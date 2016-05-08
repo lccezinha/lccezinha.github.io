@@ -3,7 +3,6 @@ layout: post
 title:  "Design Patterns: Adapter em Ruby"
 date:   2015-05-07 22:01:28
 categories: ruby design-patterns
-comments: true
 ---
 
 Por definição o [Adapter](http://pt.wikipedia.org/wiki/Adapter):

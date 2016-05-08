@@ -3,7 +3,6 @@ layout: post
 title:  "Design Patterns: Strategy em Ruby"
 date:   2015-03-06 22:01:28
 categories: ruby design-patterns
-comments: true
 ---
 
 Por definição o [Strategy](http://pt.wikipedia.org/wiki/Strategy):

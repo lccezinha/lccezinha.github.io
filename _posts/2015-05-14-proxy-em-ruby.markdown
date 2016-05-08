@@ -3,7 +3,6 @@ layout: post
 title:  "Design Patterns: Proxy em Ruby"
 date:   2015-05-14 22:01:28
 categories: ruby design-patterns
-comments: true
 ---
 
 Por definição [Proxy](http://pt.wikipedia.org/wiki/Proxy_%28padr%C3%B5es_de_projeto%29)

@@ -3,7 +3,6 @@ layout: post
 title:  "Design Patterns: Factory e AbstractFactory em Ruby"
 date:   2015-04-09 22:01:28
 categories: ruby design-patterns
-comments: true
 ---
 
 # Factory Pattern
