@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Sincronizando repositórios forkeados do github"
+title:  "Sincronizando repositórios que você fez o fork com os originais"
 date:   2015-02-23 22:01:28
 categories: github
 ---
 
-Quando se participa de projetos open source é muito comum após um tempo surgir a necessidade de atualizar o código de seu repositório forkeado com o remoto, mas como fazer isso ?
+Quando se participa de projetos open source é muito comum após um tempo surgir a necessidade de atualizar o código de seu repositório com o remoto, mas como fazer isso ?
 
 Tomando como exemplo um fork meu do projeto [Ruby Jobs](http://github.com/ruby-jobs/ruby-jobs) e executando o comando `git remote -v` temos a seguinte saída:
 
